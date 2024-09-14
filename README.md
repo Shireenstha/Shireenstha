@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+my name is **Shireen Shrestha**.
+## Welcome to my **Github Account**.
 
-<!--
-**Shireenstha/Shireenstha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shireenstha/Shireenstha** 
+I am from Nepal 🇳🇵
+👩‍🎓 I’m a BscIT Student.<br>
+  🌱 I’m currently learning ***SpringBoot***:springboot:.<br>
+  👯 I’m looking forward to make my career in Quality Assurance. 
+  💬 Ask me about anything, if I can, I will be there.
+ 📫 How to reach me: You can reach me through my ***Linkedin*** profile.
+  
+ ⚡ Fun fact: I am an optimistic person with a stressful mind.
+  😄
