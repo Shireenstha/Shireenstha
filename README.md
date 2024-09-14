@@ -5,7 +5,7 @@ my name is **Shireen Shrestha**.
 **Shireenstha/Shireenstha** <br>
 I am from Nepal. <br>
 👩‍🎓I’m a BscIT Student.<br>
-  🌱 I’m currently learning ***SpringBoot***:springboot:.<br>
+  🌱 I’m currently learning ***SpringBoot***.<br>
   👯 I’m looking forward to make my career in Quality Assurance.<br>
   💬 Ask me about anything, if I can, I will be there.<br>
  📫 How to reach me: You can reach me through my ***Social Media Profiles***.<br>
